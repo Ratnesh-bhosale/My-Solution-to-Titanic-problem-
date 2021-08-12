@@ -25,5 +25,7 @@ Kaggle Notebook Link: https://www.kaggle.com/ratneshbhosale/my-solution-to-titan
 
 ## Result:
 Accuracy: 
+
     Validation Set - 83% 
+    
     Test set - 75%
