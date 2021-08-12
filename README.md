@@ -16,7 +16,7 @@ Kaggle Notebook Link: https://www.kaggle.com/ratneshbhosale/my-solution-to-titan
 8) Predictions 
 9) Submission
 
-## Model Used:
+## Models Used:
 1) Logistic Regression
 2) Linear SVM
 3) Decision Tree Classifier
